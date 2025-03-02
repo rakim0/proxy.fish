@@ -16,5 +16,5 @@ function print
         set color "$argv[2]"
     end
 
-    echo (set_color $$color)$message(set_color normal)
+    echo (set_color $$color --underline)$message(set_color normal)
 end

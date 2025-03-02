@@ -7,7 +7,7 @@ will add more as I need them
 primarily using for my college proxy
 
 #### TODO: 
-- [ ] Add support for KDE 
+- [x] Add support for KDE 
 - [ ] Add support for YAST
 - [ ] Add support for reading configuration from conf.d 
     - [ ] Allow changing URLs from config, maybe set something like set_proxy_url
