@@ -6,7 +6,7 @@ will add more as I need them
 
 primarily using for my college proxy
 
-TODO: 
+#### TODO: 
 - [ ] Add support for KDE 
 - [ ] Add support for YAST
 - [ ] Add support for reading configuration from conf.d 
@@ -23,6 +23,7 @@ Switching to IIITA Proxy: http://172.31.2.3:8080
 $ proxy home
 Welcome back! Proxy unset
 ```
+#### Folder Structure:
 
 ```
 proxy.fish
@@ -41,8 +42,7 @@ proxy.fish
         └── helper functions: pretty printing etc.
 ```
 
-
-references:
+#### references:
 idea shamelessly copied from:
 [athityakumar/proxyrc](https://github.com/athityakumar/proxyrc)
 and
