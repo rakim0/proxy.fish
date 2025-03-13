@@ -1,6 +1,6 @@
 ### proxy.fish
 
-fish plugin to set/unset proxy for kde based devices
+fish plugin to set/unset proxy for kde based devices       
 currently only setting proxy for kde settings and git. 
 will add more as I need them
 
