@@ -13,6 +13,12 @@ function unset_shell_proxy
     set -e http_proxy
     set -e https_proxy
     set -e ALL_PROXY
+
+    set -Ue HTTP_PROXY
+    set -Ue HTTPS_PROXY
+    set -Ue http_proxy
+    set -Ue https_proxy
+    set -Ue ALL_PROXY
     print "Environment Variables unset" 
 end
 
